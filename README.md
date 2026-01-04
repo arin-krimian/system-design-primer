@@ -4,7 +4,7 @@
 
 # The System Design Primer
 
-<p align="center">
+<p align="right">
   <img src="images/jj3A5N8.png">
   <br/>
 </p>
@@ -45,7 +45,7 @@ Additional topics for interview prep:
 
 ## Anki flashcards
 
-<p align="center">
+<p align="right">
   <img src="images/zdCAkB3.png">
   <br/>
 </p>
@@ -62,7 +62,7 @@ Great for use while on-the-go.
 
 Looking for resources to help you prep for the [**Coding Interview**](https://github.com/donnemartin/interactive-coding-challenges)?
 
-<p align="center">
+<p align="right">
   <img src="images/b4YtAEN.png">
   <br/>
 </p>
@@ -92,7 +92,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 >
 > Each section contains links to more in-depth resources.
 
-<p align="center">
+<p align="right">
   <img src="images/jrUBAF7.png">
   <br/>
 </p>
